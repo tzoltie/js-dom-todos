@@ -3,6 +3,9 @@ We're going to put to good use our knowledge of `fetch` by creating a full clien
 
 ![Result](result.png)
 
+## Learning Objectives
+- Use `fetch` to implement a JavaScript application that interacts with a server
+
 ## Setup
 * Fork and clone
 * `npm install`
