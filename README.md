@@ -19,7 +19,7 @@ We're going to put to good use our knowledge of `fetch` by creating a full clien
 ## Challenge
 - Add a "Complete" button to each uncompleted Todo. When the user clicks it, make a `PATCH` request with `fetch` to `http://localhost:3000/todos/[todoid]` (replacing `todoid` with the actual ID of the `todo`) to update the todo as completed. Update the list of Todos without reloading loading the page.
 
-- Add a "Delete" button to each Todo. When the user clicks it, make a `DELETE` request with `fetch` to `http://localhost:3000/todos/[todoid]` (replacing `todoid` with the actual ID of the `todo`) to remove the todo completed. Update the list of Todos without reloading loading the page.
+- Add a "Delete" button to each Todo. When the user clicks it, make a `DELETE` request with `fetch` to `http://localhost:3000/todos/[todoid]` (replacing `todoid` with the actual ID of the `todo`) to remove the todo. Update the list of Todos without reloading loading the page.
 
 **Challenge 2**
 - Add error handling to the app. The user should have a notification if something goes wrong
